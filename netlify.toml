@@ -1,9 +1,11 @@
 [build]
   command = "npm run build"
   publish = "dist"
-  environment = { NODE_VERSION = "20" }
+  environment = { NODE_VERSION = "20.14.0" }
+
 [functions]
   directory = "netlify/functions"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
