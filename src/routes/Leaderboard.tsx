@@ -1,0 +1,1 @@
+export default function Leaderboard(){ return (<div className="max-w-md mx-auto card">Leaderboard wires to Supabase in full build.</div>) }

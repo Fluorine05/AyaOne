@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --glass: rgba(255,255,255,0.06) }
+.glass { background: var(--glass); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 8px 30px rgba(0,0,0,0.35) }
+.card { @apply rounded-xl2 p-4 glass }
+.badge { @apply inline-flex items-center justify-center text-xs px-2 py-0.5 rounded-pill bg-white/10 border border-white/10 }
+.tabbar { @apply fixed bottom-0 left-0 right-0 bg-card border-t border-white/10; box-shadow: 0 -10px 30px rgba(0,0,0,0.4) }

@@ -1,0 +1,1 @@
+export default function TajweedLab(){ return (<div className="max-w-3xl mx-auto card">Tajweed trainer with examples (expandable) in full build.</div>) }

@@ -1,0 +1,50 @@
+{
+  "units": [
+    {
+      "slug": "ikhlas",
+      "title": "Al-Ikhlāṣ: core meanings",
+      "surah": "Al-Ikhlāṣ (112)",
+      "verses": 4,
+      "drills": [
+        {
+          "id": "u1w1",
+          "ar": "قُلْ",
+          "en": "say"
+        },
+        {
+          "id": "u1w2",
+          "ar": "أَحَدٌ",
+          "en": "one"
+        },
+        {
+          "id": "u1w3",
+          "ar": "ٱللَّهُ ٱلصَّمَدُ",
+          "en": "Allah, the Eternal Refuge"
+        },
+        {
+          "id": "u1w4",
+          "ar": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "en": "He neither begets nor is born"
+        }
+      ]
+    },
+    {
+      "slug": "falaq",
+      "title": "Al-Falaq: protection",
+      "surah": "Al-Falaq (113)",
+      "verses": 5,
+      "drills": [
+        {
+          "id": "u2w1",
+          "ar": "قُلْ أَعُوذُ",
+          "en": "say, I seek refuge"
+        },
+        {
+          "id": "u2w2",
+          "ar": "رَبِّ ٱلْفَلَقِ",
+          "en": "Lord of daybreak"
+        }
+      ]
+    }
+  ]
+}
